@@ -1,0 +1,13 @@
+{
+  "name": "jevml",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "Reusable machine-learning primitives for Jev — PCA, MCMC, text diffusion, neural cellular automata, and a task harness.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": ["src"],
+  "keywords": ["machine-learning", "pca", "mcmc", "diffusion", "cellular-automata", "jev"]
+}
